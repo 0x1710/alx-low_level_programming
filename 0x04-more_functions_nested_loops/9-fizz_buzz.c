@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - check the code for Holberton School students.
+ * main - check the code for ALX School students.
  *
  * Return: void.
  */
@@ -38,3 +38,5 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
+
+}
